@@ -54,6 +54,8 @@ it('Privacy Policy',()=>{
   methods.url("https://demo.vercel.store/privacy-policy")    
   methods.wait(1000)
 
+  
+
 })
 /*it('FAQ',()=>{
   methods.visit('https://demo.vercel.store/')
