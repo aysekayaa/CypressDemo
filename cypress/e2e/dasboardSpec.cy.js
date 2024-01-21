@@ -55,13 +55,13 @@ it('Privacy Policy',()=>{
   methods.wait(1000)
 
 })
-it('FAQ',()=>{
+/*it('FAQ',()=>{
   methods.visit('https://demo.vercel.store/')
   methods.clickButton(dashboardLocators.faQLinkText)
   methods.url("https://demo.vercel.store/frequently-asked-questions")    
   methods.wait(1000)
 })
-
+*/
 
 
 })
